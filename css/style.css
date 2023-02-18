@@ -115,12 +115,12 @@ h1, h2, h3, h4, h5, h6 {
           align-items: center;
 }
 .header .header__high-section .header__left-group .header__contacts-location p::before {
-  content: url("../../img/Location.svg");
+  content: url("../img/Location.svg");
   margin-right: 10px;
   vertical-align: middle;
 }
 .header .header__high-section .header__left-group .header__contacts-location p::after {
-  content: url("../../img/down-arrow.svg");
+  content: url("../img/down-arrow.svg");
   margin-left: 9px;
   vertical-align: middle;
 }
@@ -129,7 +129,7 @@ h1, h2, h3, h4, h5, h6 {
   cursor: pointer;
 }
 .header .header__high-section .header__left-group .header__contacts-phone p::before {
-  content: url("../../img/Phone.svg");
+  content: url("../img/Phone.svg");
   margin-right: 10px;
   vertical-align: middle;
 }
